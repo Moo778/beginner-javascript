@@ -1,5 +1,6 @@
 function fortuneTeller(){
-console.log
+console.log("Hello");
+
 }
 
 function ageCalculator(){
